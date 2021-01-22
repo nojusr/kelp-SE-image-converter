@@ -1,16 +1,17 @@
-# kelp_se_image_converter
+# Kelp's SE Image converter
 
-Kelp's SE image to text converter
+This app is fresh out the oven, expect some bugs and other nasty things. If you do find any, please let me know about it via the issues tab above.
 
-## Getting Started
+This app is also directly inspired by [Whip's image converter](https://github.com/Whiplash141/Whips-Image-Converter). The main reason I decided to write my own is that I wanted to be able to convert images while playing the game on Linux via Proton. But, if there's a need for it, I might implement extra features that are requested.
 
-This project is a starting point for a Flutter application.
+# How do I download this program?
 
-A few resources to get you started if this is your first Flutter project:
+For now, there is no direct download link provided. I'll probably get around to that within the next couple of days.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No screenshots for now, don't have time for em hehe
+
+# Screen sizes
+
+Since SE has blessed us with a multitude of screens to display text in, each of them with their own, custom sizes, I created a table that contains the size preset needed for proper image sizing. You can find it [here](https://github.com/nojusr/kelp-SE-image-converter/blob/main/Screen-Size-Guide.md)
