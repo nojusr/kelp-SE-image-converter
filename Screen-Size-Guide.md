@@ -1,7 +1,6 @@
 
 # Screen resolutions
----
----
+
 ## Blocks:
 | Block name   | Resolution preset |
 | ----------- | ----------- |
@@ -16,7 +15,6 @@
 | Text Panel (Small Grid) | Square |
 
 
----
 ## Small Grid Cockpits:
 #### Vanilla cockpit
 | Screen name    | Resolution preset |
@@ -65,7 +63,7 @@
 | Screen name | Resolution preset |
 | ----------- | ----------- |
 | Large Display | Large 5x3 |
----
+
 ## Large Grid Cockpits:
 
 #### Control Seat
