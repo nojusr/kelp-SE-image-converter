@@ -6,11 +6,13 @@ This app is also directly inspired by [Whip's image converter](https://github.co
 
 # How do I download this program?
 
-For now, there is no direct download link provided. I'll probably get around to that within the next couple of days.
+You can find it [here](https://github.com/nojusr/kelp-SE-image-converter/releases)
 
 # Screenshots
 
-No screenshots for now, don't have time for em hehe
+![scrshot1](https://kelp.ml/u/ay81.png)
+![scrshot2](https://kelp.ml/u/ay83.png)
+![scrshot3](https://kelp.ml/u/ay84.png)
 
 # Screen sizes
 
