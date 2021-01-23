@@ -8,12 +8,14 @@ This app is also directly inspired by [Whip's image converter](https://github.co
 
 You can find it [here](https://github.com/nojusr/kelp-SE-image-converter/releases)
 
+
+# Screen sizes
+
+Since SE has blessed us with a multitude of screens to display text in, each of them with their own, custom sizes, I created a table that contains the size preset needed for proper image sizing. You can find it [here](https://github.com/nojusr/kelp-SE-image-converter/blob/main/Screen-Size-Guide.md)
+
 # Screenshots
 
 ![scrshot1](https://kelp.ml/u/ay81.png)
 ![scrshot2](https://kelp.ml/u/ay83.png)
 ![scrshot3](https://kelp.ml/u/ay84.png)
 
-# Screen sizes
-
-Since SE has blessed us with a multitude of screens to display text in, each of them with their own, custom sizes, I created a table that contains the size preset needed for proper image sizing. You can find it [here](https://github.com/nojusr/kelp-SE-image-converter/blob/main/Screen-Size-Guide.md)
